@@ -31,7 +31,7 @@
 ## 项目结构
 
 ```
-视觉组_OpenCV考核/
+OpenCV_Test/
 ├── src/                          # 源代码目录
 │   ├── main.py                   # 主程序入口
 │   ├── basic_preprocessing.py    # 图像基础预处理
