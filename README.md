@@ -1,10 +1,10 @@
-# OpenCV图像识别考核项目
+# OpenCV图像识别测试项目
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)](https://opencv.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 视觉组月度考核 - OpenCV图像识别综合实现
+> 视觉组 - OpenCV图像识别综合实现
 
 ## 📋 项目简介
 
